@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_kelulusan" value="name:id;datatype:int,name:noujian;datatype:string,name:name;datatype:string,name:naindo;datatype:string,name:nainggris;datatype:string,name:namat;datatype:string,name:naipa;datatype:string,name:ket;datatype:string,name:komentar;datatype:blob" />
+</info>

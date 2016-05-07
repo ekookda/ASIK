@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Nilai_Siswa" value="name:id;datatype:int,name:noujian;datatype:string,name:name;datatype:string,name:naindo;datatype:string,name:nainggris;datatype:string,name:namat;datatype:string,name:naipa;datatype:string,name:ket;datatype:string,name:komentar;datatype:blob" />
+	<infoitem key="UD_View" value="name:id;datatype:int,name:noujian;datatype:string,name:name;datatype:string,name:naindo;datatype:string,name:nainggris;datatype:string,name:namat;datatype:string,name:naipa;datatype:string,name:ket;datatype:string,name:komentar;datatype:blob" />
+</info>
